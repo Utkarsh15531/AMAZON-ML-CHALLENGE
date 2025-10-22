@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+sentence-transformers
+scikit-learn
+lightgbm
+torch
