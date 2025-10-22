@@ -6,6 +6,13 @@ This repository contains the code and resources for the Amazon ML Challenge pric
 - Model files (fine_tuned_bge_log_price_model_3_epochs/)
 - Embedding files (*.npy)
 - Dataset files (*.csv)
+- output file(*.csv)
+- The large file also contain a .ipynb file which is same as "Last working.ipynb"
+- 
+##  Drive Link of compressed large files(.zip) : https://drive.google.com/file/d/1K06SCNZBXRH5acvJcVkWwSsCG1ke7RCf/view?usp=sharing
+##  You need access permission. Request access. You may also mail on: "ut7320@gmail.com" to ask access permission.
+
+## Recommended: Setup, activate and use a Virtual Enviroment for Dependency Isolation.  It prevent any version compatibility error.
 
 ## Project Structure
 ```
